@@ -4,4 +4,4 @@ Scene ビューに UI レイヤーの表示の ON / OFF を切り替えるボタ
 
 ## 使用例
 
-![23](https://user-images.githubusercontent.com/6134875/90323889-8e1a3680-dfa2-11ea-8751-4e6e5a3ea6d3.gif)
+![90229746-62d50180-de53-11ea-9469-449e79beede1](https://user-images.githubusercontent.com/6134875/90323905-af7b2280-dfa2-11ea-8548-6d6aa07133c5.gif)
